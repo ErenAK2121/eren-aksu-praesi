@@ -28,7 +28,7 @@ export default {
   name: "Header",
   data() {
     return {
-      profilePicture: 'src/assets/eren-aksu-foto.jpeg',
+      profilePicture: '/eren-aksu-foto.jpeg',
       name: 'Eren Aksu',
       isMobile: false,
       menuOpen: false,
